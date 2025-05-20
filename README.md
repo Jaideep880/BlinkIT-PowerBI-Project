@@ -89,9 +89,8 @@ This enabled slicing and dicing of the data for **interactive and detailed analy
 
 Here’s a preview of the **Power BI dashboard** used in this project:
 
-> 📷 _Add your dashboard image here by replacing the path below_
+![Blinkit_PBIProject](https://github.com/user-attachments/assets/50dec318-ef46-42e4-9dd0-e8f1bb574261)
 
-![Grocery Retail Power BI Dashboard](./assets/Blinkit_PBIProject.png)
 
 ---
 

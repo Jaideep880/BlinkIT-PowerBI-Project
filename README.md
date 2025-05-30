@@ -1,6 +1,12 @@
 # 📊 Grocery Retail Analytics – Power BI Dashboard
 
 ---
+## 📸 Dashboard Preview
+
+Here’s a preview of the **Power BI dashboard** used in this project:
+
+![Blinkit_PBIProject](https://github.com/user-attachments/assets/50dec318-ef46-42e4-9dd0-e8f1bb574261)
+---
 
 ## 📌 Project Objective
 
@@ -82,15 +88,6 @@ This enabled slicing and dicing of the data for **interactive and detailed analy
 3. 🧱 Expand and invest in **medium-sized stores** showing high performance  
 4. 🎯 Create **targeted marketing** for Tier 3 cities  
 5. 😊 Improve **customer satisfaction** through feedback analysis  
-
----
-
-## 📸 Dashboard Preview
-
-Here’s a preview of the **Power BI dashboard** used in this project:
-
-![Blinkit_PBIProject](https://github.com/user-attachments/assets/50dec318-ef46-42e4-9dd0-e8f1bb574261)
-
 
 ---
 
